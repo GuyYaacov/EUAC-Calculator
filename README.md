@@ -1,2 +1,2 @@
 # EUAC-Calculator
-Basic EUAC calculator with graphical representation,
+Basic EUAC calculator with graphical representation.
